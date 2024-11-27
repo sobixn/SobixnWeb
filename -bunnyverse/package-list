@@ -1,0 +1,72 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.github.sobixn.project_vir.command////PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.RegisterHandler///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-register-handler/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.RegisterHandler/RegisterHandler/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-register-handler/-register-handler.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.RegisterHandler/register/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-register-handler/register.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.ReloadHandler///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-reload-handler/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.ReloadHandler/ReloadHandler/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-reload-handler/-reload-handler.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.ReloadHandler/reload/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-reload-handler/reload.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.SettingsHandler///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-settings-handler/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.SettingsHandler/SettingsHandler/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-settings-handler/-settings-handler.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand.SettingsHandler/settings/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-settings-handler/settings.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand/BunnyVerseCommand/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/-bunny-verse-command.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseCommand/onCommand/#org.bukkit.command.CommandSender#org.bukkit.command.Command#kotlin.String#kotlin.Array[kotlin.String]/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-command/on-command.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseTabCompleter.TabCompletionHandler///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-tab-completer/-tab-completion-handler/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseTabCompleter.TabCompletionHandler/TabCompletionHandler/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-tab-completer/-tab-completion-handler/-tab-completion-handler.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseTabCompleter.TabCompletionHandler/complete/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-tab-completer/-tab-completion-handler/complete.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseTabCompleter///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-tab-completer/index.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseTabCompleter/BunnyVerseTabCompleter/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-tab-completer/-bunny-verse-tab-completer.html
+$dokka.location:io.github.sobixn.project_vir.command/BunnyVerseTabCompleter/onTabComplete/#org.bukkit.command.CommandSender#org.bukkit.command.Command#kotlin.String#kotlin.Array[kotlin.String]/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.command/-bunny-verse-tab-completer/on-tab-complete.html
+$dokka.location:io.github.sobixn.project_vir.listener////PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/index.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerJoinMessage.JoinMessageHandler///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-join-message/-join-message-handler/index.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerJoinMessage.JoinMessageHandler/JoinMessageHandler/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-join-message/-join-message-handler/-join-message-handler.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerJoinMessage.JoinMessageHandler/setJoinMessage/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-join-message/-join-message-handler/set-join-message.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerJoinMessage///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-join-message/index.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerJoinMessage/PlayerJoinMessage/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-join-message/-player-join-message.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerJoinMessage/onJoin/#org.bukkit.event.player.PlayerJoinEvent/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-join-message/on-join.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerLeaveMessage.LeaveMessageHandler///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-leave-message/-leave-message-handler/index.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerLeaveMessage.LeaveMessageHandler/LeaveMessageHandler/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-leave-message/-leave-message-handler/-leave-message-handler.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerLeaveMessage.LeaveMessageHandler/broadcastLeaveMessage/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-leave-message/-leave-message-handler/broadcast-leave-message.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerLeaveMessage///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-leave-message/index.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerLeaveMessage/PlayerLeaveMessage/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-leave-message/-player-leave-message.html
+$dokka.location:io.github.sobixn.project_vir.listener/PlayerLeaveMessage/onPlayerLeave/#org.bukkit.event.player.PlayerQuitEvent/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.listener/-player-leave-message/on-player-leave.html
+$dokka.location:io.github.sobixn.project_vir.util.db////PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/index.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/index.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/addData/#kotlin.String#kotlin.Any/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/add-data.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/ensureDonationFilesExist/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/ensure-donation-files-exist.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/getData/#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/get-data.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/isChzzkStreamerRegistered/#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/is-chzzk-streamer-registered.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/isSoopUserRegistered/#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/is-soop-user-registered.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/loadData/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/load-data.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/registerChzzkStreamer/#kotlin.String#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/register-chzzk-streamer.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/registerSoopUser/#kotlin.String#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/register-soop-user.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/saveData/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/save-data.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/saveInfoData/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/save-info-data.html
+$dokka.location:io.github.sobixn.project_vir.util.db/DonationConfig/setPlugin/#org.bukkit.plugin.java.JavaPlugin/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-donation-config/set-plugin.html
+$dokka.location:io.github.sobixn.project_vir.util.db/PlayerData///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-player-data/index.html
+$dokka.location:io.github.sobixn.project_vir.util.db/PlayerData/PlayerData/#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-player-data/-player-data.html
+$dokka.location:io.github.sobixn.project_vir.util.db/PlayerData/file/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-player-data/file.html
+$dokka.location:io.github.sobixn.project_vir.util.db/PlayerData/getPlayerFile/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-player-data/get-player-file.html
+$dokka.location:io.github.sobixn.project_vir.util.db/PlayerData/setPlayerFile/#kotlin.String/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util.db/-player-data/set-player-file.html
+$dokka.location:io.github.sobixn.project_vir.util////PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util/index.html
+$dokka.location:io.github.sobixn.project_vir.util/DonationSystem///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util/-donation-system/index.html
+$dokka.location:io.github.sobixn.project_vir.util/DonationSystem/DonationSystem/#org.bukkit.plugin.java.JavaPlugin/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util/-donation-system/-donation-system.html
+$dokka.location:io.github.sobixn.project_vir.util/DonationSystem/fetchDonations/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util/-donation-system/fetch-donations.html
+$dokka.location:io.github.sobixn.project_vir.util/DonationSystem/start/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir.util/-donation-system/start.html
+$dokka.location:io.github.sobixn.project_vir////PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/index.html
+$dokka.location:io.github.sobixn.project_vir/Main.Companion///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/-companion/index.html
+$dokka.location:io.github.sobixn.project_vir/Main.Companion/instance/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/-companion/instance.html
+$dokka.location:io.github.sobixn.project_vir/Main.Companion/logger/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/-companion/logger.html
+$dokka.location:io.github.sobixn.project_vir/Main///PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/index.html
+$dokka.location:io.github.sobixn.project_vir/Main/Main/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/-main.html
+$dokka.location:io.github.sobixn.project_vir/Main/getLogger/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/get-logger.html
+$dokka.location:io.github.sobixn.project_vir/Main/onDisable/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/on-disable.html
+$dokka.location:io.github.sobixn.project_vir/Main/onEnable/#/PointingToDeclaration/-bunnyverse/io.github.sobixn.project_vir/-main/on-enable.html
+io.github.sobixn.project_vir
+io.github.sobixn.project_vir.command
+io.github.sobixn.project_vir.listener
+io.github.sobixn.project_vir.util
+io.github.sobixn.project_vir.util.db
+
